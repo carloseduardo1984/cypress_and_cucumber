@@ -22,7 +22,7 @@ Projeto para testes com Cypress_and_cucumber com estrutura para page objects e e
 > npm install --save-dev cypress cypress-cucumber-preprocessor`
  
 ### 4.3. Ainda dentro da pasta do seu projeto, execute o seguinte comando para que o Cypress termine de criar os arquivos locais:
-> npx cypress@9.7.0 open`
+``` npx cypress@9.7.0 open```
 
 ### Na sequencia o cypress será aberto.
 
